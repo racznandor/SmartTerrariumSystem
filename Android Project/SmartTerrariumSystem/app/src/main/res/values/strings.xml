@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SmartTerrariumSystem</string>
+    <string name="paratartalom">Páratartalom</string>
+    <string name="homerseklet">Hőmérésklet</string>
+    <string name="kepek">Képek</string>
+    <string name="kep_leirasa">Kép</string>
+    <string name="more">Összes kép</string>
+</resources>
